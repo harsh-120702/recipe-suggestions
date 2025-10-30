@@ -1,4 +1,11 @@
-# React + TypeScript + Vite
+# Recipe Suggestions
+
+Run locally:
+
+- npm install
+- npm run start
+
+On StackBlitz it should auto install and run `npm start`. If it doesn’t, open the terminal and run `npm start` manually.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
